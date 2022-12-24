@@ -1,5 +1,5 @@
 # ITI-maven plugin
-I create a goal (MOJO) using Maven
+I created a goal (MOJO) in a plugin using Maven
 
 ### install and setup
 `mvn clean install`
